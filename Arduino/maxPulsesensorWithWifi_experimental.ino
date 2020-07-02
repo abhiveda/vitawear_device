@@ -145,7 +145,6 @@ void update_pox(){
     print(heartrate);
     print("  S: ");
     println(spo2);
-    count++;
 }
 
 
